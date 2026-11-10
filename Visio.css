@@ -1,0 +1,14 @@
+p.head {
+    font-size: 20px;
+    color:blue;
+}
+
+p.pres {
+    font-size: 50px;
+    color:black;
+}
+
+p.ez {
+    font-size: 10px;
+    color:red;
+}
