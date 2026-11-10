@@ -1,14 +1,18 @@
 p.head {
-    font-size: 20px;
-    color:blue;
+    font-size: 40px;
+    color:rgb(40, 119, 16);
 }
 
 p.pres {
     font-size: 50px;
-    color:black;
+    color:rgb(165, 97, 20);
 }
 
 p.ez {
-    font-size: 10px;
-    color:red;
+    font-size: 20px;
+    color:rgb(226, 18, 18);
+}
+
+body {
+    background-color:rgb(10, 73, 75);
 }
